@@ -1,9 +1,35 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "characters": [
+    {
+      "id": 1,
+      "name": "Mr. Cute",
+      "image": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpvZnBtcG02bGtseWl5dTJ5ZnEzejIwNHg4NXMzcnM5N3dkdzN6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8lgqAbycBjosxjfi9k/giphy.gif",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "name": "Mx. Monkey",
+      "image": "https://media.giphy.com/media/3oEduNpxiamlYn9Cz6/giphy.gif?cid=ecf05e47im58fkxb87nm92nj95o7fc6m8s3yfcmwd1d3jdwa&ep=v1_gifs_related&rid=giphy.gif&ct=g",
+      "votes": 0
+    },
+    {
+      "id": 3,
+      "name": "Ms. Zebra",
+      "image": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpnMHYydTlncWl1b2lxcHJ0b2JqcmN5MjNncHp2Znh4eTZhem1kaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/atuUZHwkaGgms/giphy.gif",
+      "votes": 0
+    },
+    {
+      "id": 4,
+      "name": "Dr. Lion",
+      "image": "https://media.giphy.com/media/pWurLyQIgWLqmqGS46/giphy.gif?cid=790b7611rpcxvrw4iew9hk19joqyqtn6jfzlfajx4md2dp1z&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+      "votes": 0
+    },
+    {
+      "id": 5,
+      "name": "Mme. Panda",
+      "image": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ0dXRnMGlyM2h4NjAyMXNrcnVuZzZzbW5kNmFvNDRldXBvM3R3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAaBpMgGuyf96/giphy.gif",
+      "votes": 0
+    }
+  ]
 }
+
